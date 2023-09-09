@@ -1,0 +1,11 @@
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\bin\Debug\фотки.exe.config
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\bin\Debug\фотки.exe
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\bin\Debug\фотки.pdb
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.Form1.resources
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.Properties.Resources.resources
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.exe
+C:\Users\Student2\Documents\GitHub\pappappap\фотки\фотки\obj\Debug\фотки.pdb
